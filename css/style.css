@@ -421,7 +421,7 @@ img:hover ~ .box-label > .drawBorder2 {
 .png-animation{
     width: 400px;
     height: 50px;
-    background-image : url(images/sprite.png);
+    background-image : url(../images/sprite.png);
     animation: moveY 6s steps(146) infinite;
     opacity: .3;
   }
