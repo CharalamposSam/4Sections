@@ -269,7 +269,7 @@ section {
     top: -1.5vw;
     left: 0;
     z-index: 2;
-    background-image: url(images/yellow-bg.jpg);
+    background-image: url(../images/yellow-bg.jpg);
     background-position-x: 100%;
     background-repeat: no-repeat;
     -webkit-background-clip: text;
